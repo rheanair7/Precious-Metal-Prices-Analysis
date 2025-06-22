@@ -1,16 +1,16 @@
-# 📈 Precious Metal Prices Dashboard (2018–2021)
+# Precious Metal Prices Dashboard (2018–2021)
 
 This interactive dashboard visualizes the daily prices of various precious metals—including Gold, Silver, Platinum, Palladium, and others—from 2018 to 2021. Built using **Dash** and **Plotly**, the app allows users to explore price trends over time by selecting specific metals and adjusting the date range.
 
 ---
 
-## 💡 Features
+## Features
 
-- 📊 Line chart visualization of precious metal prices
-- 🔍 Dropdown menu to select a specific metal
-- 🗓️ Date picker to filter data by custom date ranges
-- 🌙 Dark-themed UI for better readability
-- ⚡ Dynamic updates using Dash callbacks
+- Line chart visualization of precious metal prices
+- Dropdown menu to select a specific metal
+- Date picker to filter data by custom date ranges
+- Dark-themed UI for better readability
+- Dynamic updates using Dash callbacks
 
 ---
 
@@ -21,7 +21,7 @@ This interactive dashboard visualizes the daily prices of various precious metal
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - [Dash](https://dash.plotly.com/)
 - [Plotly Express](https://plotly.com/python/plotly-express/)
@@ -30,9 +30,9 @@ This interactive dashboard visualizes the daily prices of various precious metal
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🔧 Installation
+### Installation
 
 1. **Clone the repository**
    ```bash
